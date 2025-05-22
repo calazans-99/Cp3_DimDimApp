@@ -138,4 +138,4 @@ http://localhost:8080/swagger
 
 ## 🔗 Repositório GitHub
 
-[[https://github.com/seu-usuario/DimDimApp](https://github.com/calazans-99/Cp3_DimDimApp.git)]
+[https://github.com/calazans-99/Cp3_DimDimApp.git](https://github.com/calazans-99/Cp3_DimDimApp.git)
