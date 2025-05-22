@@ -1,9 +1,13 @@
-# 🚗 DimDimApp – Sistema de Locação de Veículos
+# 💼 Instituição Financeira DimDim – Projeto DimDimApp
 
-Aplicação ASP.NET Core com API RESTful para gerenciar veículos e simular locações com desconto.  
-Desenvolvido como parte do CP3 da disciplina **DevOps Tools & Cloud Computing**.
+Este projeto foi desenvolvido como parte do 3º Checkpoint da disciplina **DevOps Tools & Cloud Computing**, com foco em automação de ambientes utilizando **Docker**, **boas práticas de persistência de dados** e **execução de aplicações em containers isolados**.
 
 ---
+
+## 🚗 Sobre o DimDimApp
+
+O **DimDimApp** é uma aplicação ASP.NET Core que disponibiliza uma **API RESTful** para cadastro de veículos e simulação de locações, incluindo cálculo automático de valores com descontos progressivos.
+
 
 ## 📦 Tecnologias Utilizadas
 
