@@ -1,0 +1,6 @@
+@LocadoraCarrosAPI_HostAddress = http://localhost:5069
+
+GET {{LocadoraCarrosAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
